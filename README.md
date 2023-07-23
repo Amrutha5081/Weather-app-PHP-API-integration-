@@ -8,3 +8,4 @@
 </ol>
 <p>This is a simple go-to weather app, you can make one of your own :)</p>
 <em>Happy coding!</em>
+<img src=image1.png alt text="image1">Sample Image</img>
