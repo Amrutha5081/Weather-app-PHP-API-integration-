@@ -8,5 +8,5 @@
 </ol>
 <p>This is a simple go-to weather app, you can make one of your own :)</p>
 <em>Happy coding!</em>
-<img src=image1.png" alt text="image1">Sample Image</img>
-<img src=image2.png" alt text="image2">Sample Image2</img>
+<img src="image1.png" alt text="image1">Sample Image</img>
+<img src="image2.png" alt text="image2">Sample Image2</img>
